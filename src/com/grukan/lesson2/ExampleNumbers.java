@@ -1,8 +1,7 @@
 package com.grukan.lesson2;
 public class ExampleNumbers {
     public static void main(String[] args) {
-// byte, int, short, long
-
+        System.out.println("Hello");
     }
     private static void showChar() {
         char charVar = 215;
