@@ -1,6 +1,7 @@
 package com.grukan.lesson2;
 public class ExampleNumbers {
     public static void main(String[] args) {
+        //changes
 // byte, int, short, long
         System.out.println("My first code on GitHub");
     }
